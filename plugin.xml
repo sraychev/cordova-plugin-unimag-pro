@@ -10,7 +10,7 @@
     <license>Apache 2.0</license>
     <keywords>cordova,IDTECH,uniMag</keywords>
     <js-module src="www/uniMagPlugin.js" name="uniMagPlugin">
-        <clobbers target="UniMag" />
+        <clobbers target="cordova.plugins.unimag" />
     </js-module>
     
     <platform name="ios">
